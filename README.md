@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers is the best training!
 
 - Class Date: 
 - Facilitator: @gusshawstewart
